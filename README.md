@@ -1,6 +1,3 @@
-# Universe Gradient WonderCMS theme
-Fully responsive.
-
 ## Preview
 
 ## How to use
